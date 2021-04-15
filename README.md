@@ -1,5 +1,5 @@
-Hi, I’m @akomand1, pursuing my Master's in Mechanical Engineering at University of Washington, Seattle \n
-I’m interested in Robotics and Control Systems, Embedded Systems, Sensor Fusion & State Estimation \n
+Hi, I’m @akomand1, pursuing my Master's in Mechanical Engineering at University of Washington, Seattle <br />
+I’m interested in Robotics and Control Systems, Embedded Systems, Sensor Fusion & State Estimation <br />
 I’m currently learning C/C++, Python, System Identification
 
 <!---
